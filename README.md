@@ -27,12 +27,16 @@ no
 ## Questions
 Have questions about this project?  
 GitHub: https://github.com/melinamorales512  
+
 GitHub: https://github.com/waheec19
+
 GitHub: https://github.com/MikeyBeets
 
 Email: melinamorales956@gmail.com
+
 Email: waheechowdhury80@gmail.com
+
 Email: mclane.a.michael@gmail.com
 
 ## Credits
-WishPlanner
+Random 3
