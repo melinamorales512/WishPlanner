@@ -14,7 +14,7 @@
 
 MERN stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand.
 
-https://drive.google.com/file/d/1LXZvLeKy4ceqRYg2tH-V92LsmzwoozpW/view
+<iframe src="https://drive.google.com/file/d/1LXZvLeKy4ceqRYg2tH-V92LsmzwoozpW/preview" width="640" height="480"></iframe>
 
 ## Installation
 Use React for the front end.
