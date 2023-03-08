@@ -16,6 +16,7 @@ MERN stack single-page application that works with real-world data to solve a re
 
 ## Installation
 Use React for the front end.
+Using React, Node.js, Express & MongoDB.
 
 ## Usage
 Use MongoDB and the Mongoose ODM for the database.
