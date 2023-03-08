@@ -1,0 +1,33 @@
+# WishPlanner
+  
+    
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Licenses](#licenses)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+* [Credits](#credits)
+## Description
+
+MERN stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand.
+
+## Installation
+Use React for the front end.
+
+## Usage
+Use MongoDB and the Mongoose ODM for the database.
+
+## Contributing
+yes
+## Tests
+no
+## Questions
+Have questions about this project?  
+GitHub: https://github.com/melinamorales512  
+
+Email: melinamorales956@gmail.com
+## Credits
+WishPlanner
