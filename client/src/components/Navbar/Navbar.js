@@ -13,7 +13,7 @@ const Navbar = () => {
     return (
         <AppBar className={classes.appBar} position="static" color="inherit">
           <div className={classes.brandContainer}>
-            <Typography element={Link} to="/" className={classes.heading} variant="h2" align="center">WishPlanner</Typography>
+            <Typography element={Link} to="/" className={classes.heading} variant="h2" align="center">Wishes</Typography>
             <img className={classes.image} src={memories} alt="icon" height="60" />
           </div>
           <Toolbar className={classes.toolbar}>
