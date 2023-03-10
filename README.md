@@ -19,6 +19,8 @@ MERN stack single-page application that works with real-world data to solve a re
 Use React for the front end.
 Using React, Node.js, Express & MongoDB.
 
+https://melinamorales512.github.io/WishPlanner/
+
 ## Usage
 Use MongoDB and the Mongoose ODM for the database.
 
